@@ -1,0 +1,13 @@
+
+langchain==0.2.1
+langchain-community==0.2.1
+chromadb==0.4.24
+sentence-transformers==2.6.1
+ollama==0.1.8
+duckduckgo-search==5.3.0
+pymupdf==1.26.3
+streamlit==1.35.0
+torch==2.3.1
+
+
+-e .
