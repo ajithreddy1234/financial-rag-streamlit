@@ -121,9 +121,3 @@ GitHub: https://github.com/ajithreddy1234
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify.
-
-## Optional Features to Add
-
-- PDF upload via UI
-- Downloadable report (Markdown or PDF)
-- Visual charts with Altair/Plotly
